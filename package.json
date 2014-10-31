@@ -1,0 +1,26 @@
+{
+  "name": "dispute",
+  "version": "0.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hyphyphyph/dispute.git"
+  },
+  "author": "Derek McTavish Mounce <d@lvst.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hyphyphyph/dispute/issues"
+  },
+  "homepage": "https://github.com/hyphyphyph/dispute",
+  "dependencies": {
+    "joi": "^4.7.0",
+    "underscore": "^1.7.0"
+  }
+}
